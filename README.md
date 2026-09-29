@@ -1,56 +1,64 @@
-\# Practice Project Log
+# Practice Project Log
 
+A collection of projects I work on to practice, learn, and improve my skills in analytics, Excel, and product management.
 
+This is a work-in-progress repository where I will keep adding new projects as I learn and explore more.
 
-A collection of hands-on projects where I practice solving business and product problems using data, analytics, and structured thinking.
+## Repository Structure
 
+### Excel
 
+My Excel practice projects, covering things like:
 
-\## Repository Structure
+- Data cleaning
+- Formulas and functions
+- PivotTables
+- Data analysis
+- Dashboards
 
+### Product Management
 
+Projects I work on to learn and practice product management.
 
-\### Excel
+#### PRD
 
-Practice projects focused on Excel, including data cleaning, formulas, PivotTables, analysis, and dashboards.
+My Product Requirement Documents and product ideas.
 
+#### Product Teardown
 
+Teardowns of existing products to understand how they work, what can be improved, and how I think about products.
 
-\### Product Management
+### Analytics Projects
 
-Projects related to product thinking and product management.
+Hands-on analytics projects where I work with data and try to solve business problems.
 
+Projects currently included:
 
+- Supply Chain Optimization
+- Hotel Booking Cancellation
+- Revenue & Profit Maximization
+- Credit Card Financial Dashboard
 
-\- PRD
+Tools I have used across these projects include:
 
-\- Product Teardown
+- Excel
+- SQL
+- Power BI
+- PostgreSQL
 
+## What I'm Learning
 
+I am using this repository to get better at:
 
-\### Analytics Projects
+- Excel
+- SQL
+- Power BI
+- Data Analytics
+- Product Management
+- Problem Solving
 
-End-to-end business analytics projects using tools such as Excel, SQL, Power BI, PostgreSQL, and other analytical techniques.
+## My Goal
 
+Keep learning, keep practicing, and keep building.
 
-
-Current projects:
-
-
-
-\- Supply Chain Optimization
-
-\- Hotel Booking Cancellation
-
-\- Revenue \& Profit Maximization
-
-\- Credit Card Financial Dashboard
-
-
-
-\## Purpose
-
-
-
-This repository is my space to practice applying analytical and product management concepts to real-world business problems and continuously improve through hands-on projects.
-
+I will continue adding new projects here as I learn more and improve my skills.
